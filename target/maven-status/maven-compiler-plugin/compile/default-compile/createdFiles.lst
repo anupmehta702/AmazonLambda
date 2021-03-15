@@ -1,0 +1,11 @@
+com\anup\lambda\dynamo\DynamoCDCDataHandler.class
+com\anup\lambda\dynamo\KinesisDataHandler.class
+com\anup\RecordIgnoreDuplicateMethods.class
+com\anup\s3\CSVWriter.class
+com\anup\CDCSerializer.class
+com\anup\s3\BucketOperation.class
+com\anup\s3\FileConstants.class
+com\anup\StreamRecordIgnoreDuplicateMethods.class
+com\anup\lambda\dynamo\KinesisFirehoseDataHandler.class
+com\anup\model\Customer.class
+com\anup\s3\CSVReader.class
